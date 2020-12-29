@@ -1,7 +1,3 @@
-<script src="https://utteranc.es/client.js"
-        repo="K-SOYOUNG/TEST"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+{
+  "origins": ["https://www.notion.so/"]
+}
